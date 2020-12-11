@@ -1,0 +1,39 @@
+*{
+    color: orange;
+}
+h1{
+    font-size: x-large;
+    color: tomato;
+}
+/* đây là selector p */
+p{
+    color: rebeccapurple;
+    font-weight: 100;
+}
+body{
+    background-color:aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+.planets{
+    color: red;
+    font-size: 25px;
+}
+#myid{
+    color: lightsalmon;
+    font-weight: 50px;
+}
+a:link{
+    color: white;
+    background-color: black ;
+    border: 2px solid white;
+}
+a:visited{
+    color: white;
+    background-color: brown;
+    border: 2px solid wheat;
+}
+a:hover{
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+}

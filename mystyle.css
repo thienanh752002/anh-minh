@@ -1,0 +1,13 @@
+div{
+    text-align: left;
+    text-indent: 2em;
+    text-transform: uppercase;
+}
+#heading{
+    background-color: #FFFFCC;
+    text-align: center;
+    border-left-style: ridge;
+    border-right-style: groove;
+    border-top-style:dashed;
+    border-bottom-style:double ;
+}
